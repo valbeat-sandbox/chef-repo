@@ -1,0 +1,9 @@
+DEPENDENCIES
+  imagemagick
+  mysql
+  vim
+
+GRAPH
+  imagemagick (0.2.3)
+  mysql (8.1.0)
+  vim (2.0.2)
